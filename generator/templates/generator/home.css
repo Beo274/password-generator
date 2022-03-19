@@ -1,0 +1,14 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+@font-face {
+	font-family:JetBrains Mono;
+	src:url("fonts/JetBrainsMono-Bold.ttf") format('truetype');
+	font-style:normal
+}
+div {
+  display:flex;
+  justify-content: center;
+  background-color: rgba(142, 204, 192, 0.5)
+}
